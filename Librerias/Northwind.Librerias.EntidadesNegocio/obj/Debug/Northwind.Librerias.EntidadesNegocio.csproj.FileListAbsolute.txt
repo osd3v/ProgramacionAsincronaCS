@@ -1,0 +1,6 @@
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.EntidadesNegocio\bin\Debug\Northwind.Librerias.EntidadesNegocio.dll
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.EntidadesNegocio\bin\Debug\Northwind.Librerias.EntidadesNegocio.pdb
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.EntidadesNegocio\obj\Debug\Northwind.Librerias.EntidadesNegocio.csprojResolveAssemblyReference.cache
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.EntidadesNegocio\obj\Debug\Northwind.Librerias.EntidadesNegocio.csproj.CoreCompileInputs.cache
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.EntidadesNegocio\obj\Debug\Northwind.Librerias.EntidadesNegocio.dll
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.EntidadesNegocio\obj\Debug\Northwind.Librerias.EntidadesNegocio.pdb

@@ -1,0 +1,11 @@
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.ReglasNegocio\bin\Debug\Northwind.Librerias.ReglasNegocio.dll
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.ReglasNegocio\bin\Debug\Northwind.Librerias.ReglasNegocio.pdb
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.ReglasNegocio\bin\Debug\Northwind.Librerias.AccesoDatos.dll
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.ReglasNegocio\bin\Debug\Northwind.Librerias.EntidadesNegocio.dll
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.ReglasNegocio\bin\Debug\Northwind.Librerias.AccesoDatos.pdb
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.ReglasNegocio\bin\Debug\Northwind.Librerias.EntidadesNegocio.pdb
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.ReglasNegocio\obj\Debug\Northwind.Librerias.ReglasNegocio.csprojResolveAssemblyReference.cache
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.ReglasNegocio\obj\Debug\Northwind.Librerias.ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.ReglasNegocio\obj\Debug\Northwind.Librerias.ReglasNegocio.csproj.CopyComplete
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.ReglasNegocio\obj\Debug\Northwind.Librerias.ReglasNegocio.dll
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.ReglasNegocio\obj\Debug\Northwind.Librerias.ReglasNegocio.pdb

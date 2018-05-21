@@ -1,0 +1,10 @@
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\Demo03\Demo03\obj\Debug\Demo03.csprojResolveAssemblyReference.cache
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\Demo03\Demo03\obj\Debug\Demo03.frmProductos.resources
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\Demo03\Demo03\obj\Debug\Demo03.Properties.Resources.resources
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\Demo03\Demo03\obj\Debug\Demo03.csproj.GenerateResource.cache
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\Demo03\Demo03\obj\Debug\Demo03.csproj.CoreCompileInputs.cache
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\Demo03\Demo03\bin\Debug\Demo03.exe.config
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\Demo03\Demo03\bin\Debug\Demo03.exe
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\Demo03\Demo03\bin\Debug\Demo03.pdb
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\Demo03\Demo03\obj\Debug\Demo03.exe
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\Demo03\Demo03\obj\Debug\Demo03.pdb

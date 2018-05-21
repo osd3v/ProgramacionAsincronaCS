@@ -1,0 +1,14 @@
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\servicioWCF\servicioWCF\bin\servicioWCF.dll.config
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\servicioWCF\servicioWCF\bin\servicioWCF.dll
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\servicioWCF\servicioWCF\bin\servicioWCF.pdb
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\servicioWCF\servicioWCF\bin\Northwind.Librerias.EntidadesNegocio.dll
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\servicioWCF\servicioWCF\bin\Northwind.Librerias.ReglasNegocio.dll
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\servicioWCF\servicioWCF\bin\Northwind.Librerias.AccesoDatos.dll
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\servicioWCF\servicioWCF\bin\Northwind.Librerias.EntidadesNegocio.pdb
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\servicioWCF\servicioWCF\bin\Northwind.Librerias.ReglasNegocio.pdb
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\servicioWCF\servicioWCF\bin\Northwind.Librerias.AccesoDatos.pdb
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\servicioWCF\servicioWCF\obj\Debug\servicioWCF.csprojResolveAssemblyReference.cache
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\servicioWCF\servicioWCF\obj\Debug\servicioWCF.csproj.CoreCompileInputs.cache
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\servicioWCF\servicioWCF\obj\Debug\servicioWCF.csproj.CopyComplete
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\servicioWCF\servicioWCF\obj\Debug\servicioWCF.dll
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Demos\servicioWCF\servicioWCF\obj\Debug\servicioWCF.pdb

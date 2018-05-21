@@ -1,0 +1,9 @@
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.AccesoDatos\bin\Debug\Northwind.Librerias.AccesoDatos.dll
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.AccesoDatos\bin\Debug\Northwind.Librerias.AccesoDatos.pdb
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.AccesoDatos\bin\Debug\Northwind.Librerias.EntidadesNegocio.dll
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.AccesoDatos\bin\Debug\Northwind.Librerias.EntidadesNegocio.pdb
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.AccesoDatos\obj\Debug\Northwind.Librerias.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.AccesoDatos\obj\Debug\Northwind.Librerias.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.AccesoDatos\obj\Debug\Northwind.Librerias.AccesoDatos.csproj.CopyComplete
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.AccesoDatos\obj\Debug\Northwind.Librerias.AccesoDatos.dll
+C:\Users\altamira\source\repos\ProgramacionAsincrona\Librerias\Northwind.Librerias.AccesoDatos\obj\Debug\Northwind.Librerias.AccesoDatos.pdb
